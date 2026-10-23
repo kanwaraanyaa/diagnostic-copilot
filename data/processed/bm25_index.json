@@ -1,0 +1,535 @@
+[
+  {
+    "chunk_id": "chunk_d3a1b058d052",
+    "content": "# Acute Coronary Syndrome (ACS) \u2014 Clinical Overview\n\nTitle: Acute Coronary Syndrome Clinical Guide\nDocument Type: clinical_guideline\n\n## Definition\n\nAcute coronary syndrome (ACS) encompasses a range of conditions associated with sudden reduction or blockage of blood flow to the heart. It includes:\n- ST-elevation myocardial infarction (STEMI)\n- Non-ST-elevation myocardial infarction (NSTEMI)\n- Unstable angina\n\n## Risk Factors",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\acute_coronary_syndrome.md",
+      "title": "Acute Coronary Syndrome (ACS) \u2014 Clinical Overview",
+      "document_type": "clinical_guideline",
+      "section": "",
+      "chunk_id": "chunk_d3a1b058d052",
+      "chunk_index": 0,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_e0d718b66eab",
+    "content": "## Risk Factors\n\nMajor risk factors for ACS include:\n- Age (men \u2265 45, women \u2265 55)\n- Hypertension\n- Diabetes mellitus\n- Dyslipidemia (elevated LDL, low HDL)\n- Smoking\n- Family history of premature coronary artery disease\n- Obesity\n- Sedentary lifestyle\n\n## Clinical Presentation\n\nTypical symptoms:\n- Chest pain or pressure (substernal, may radiate to left arm, jaw, or back)\n- Diaphoresis (sweating)\n- Nausea or vomiting\n- Dyspnea\n- Palpitations\n- Feeling of impending doom",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\acute_coronary_syndrome.md",
+      "title": "Acute Coronary Syndrome (ACS) \u2014 Clinical Overview",
+      "document_type": "clinical_guideline",
+      "section": "",
+      "chunk_id": "chunk_e0d718b66eab",
+      "chunk_index": 1,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_dc00bc1ef72a",
+    "content": "Atypical presentations (more common in women, elderly, diabetic patients):\n- Epigastric pain\n- Fatigue\n- Isolated dyspnea\n- Syncope\n\n## Laboratory Findings\n\nKey biomarkers:\n- Troponin I or T: Elevated above 99th percentile indicates myocardial injury. Serial measurements recommended. Troponin is the most sensitive and specific biomarker.\n- CK-MB: Less specific than troponin; rises 4-6 hours after onset.\n- BNP/NT-proBNP: May be elevated indicating heart failure.",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\acute_coronary_syndrome.md",
+      "title": "Acute Coronary Syndrome (ACS) \u2014 Clinical Overview",
+      "document_type": "clinical_guideline",
+      "section": "",
+      "chunk_id": "chunk_dc00bc1ef72a",
+      "chunk_index": 2,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_28b871edeb22",
+    "content": "Other findings:\n- Possible elevated glucose (stress hyperglycemia)\n- Elevated WBC (inflammatory response)\n- Elevated CRP\n- Possible renal function changes (creatinine)\n\n## Electrocardiographic Findings\n\n- ST elevation: STEMI\n- ST depression: NSTEMI or unstable angina\n- T-wave inversions\n- New left bundle branch block\n- Q waves (established infarction)\n\n## Imaging",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\acute_coronary_syndrome.md",
+      "title": "Acute Coronary Syndrome (ACS) \u2014 Clinical Overview",
+      "document_type": "clinical_guideline",
+      "section": "",
+      "chunk_id": "chunk_28b871edeb22",
+      "chunk_index": 3,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_251cc11aff69",
+    "content": "## Imaging\n\n- Chest X-ray: May show cardiomegaly, pulmonary edema\n- Echocardiography: Wall motion abnormalities, ejection fraction assessment\n- Coronary angiography: Definitive for identifying coronary occlusion\n\n## Differential Diagnosis\n\nConditions that may present similarly to ACS:\n- Pulmonary embolism\n- Aortic dissection\n- Pericarditis\n- Myocarditis\n- Pneumothorax\n- Musculoskeletal chest pain\n- Gastroesophageal reflux disease (GERD)\n- Panic disorder\n\n## Complications",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\acute_coronary_syndrome.md",
+      "title": "Acute Coronary Syndrome (ACS) \u2014 Clinical Overview",
+      "document_type": "clinical_guideline",
+      "section": "",
+      "chunk_id": "chunk_251cc11aff69",
+      "chunk_index": 4,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_5641ad096643",
+    "content": "## Complications\n\n- Heart failure\n- Cardiogenic shock\n- Cardiac arrhythmias\n- Mitral regurgitation\n- Ventricular septal rupture\n- Pericarditis",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\acute_coronary_syndrome.md",
+      "title": "Acute Coronary Syndrome (ACS) \u2014 Clinical Overview",
+      "document_type": "clinical_guideline",
+      "section": "",
+      "chunk_id": "chunk_5641ad096643",
+      "chunk_index": 5,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_f6c871cd6fe1",
+    "content": "# Complete Blood Count (CBC) \u2014 Interpretation Guide\n\nTitle: CBC Interpretation Guide\nDocument Type: educational\n\n## Overview\n\nThe complete blood count (CBC) is one of the most commonly ordered laboratory tests. It provides valuable information about the three major cell lines in blood: red blood cells, white blood cells, and platelets.\n\n## White Blood Cell Count (WBC)\n\nNormal range: 4,500\u201311,000 cells/\u03bcL\n\n### Leukocytosis (WBC > 11,000/\u03bcL)",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\cbc_interpretation.md",
+      "title": "Complete Blood Count (CBC) \u2014 Interpretation Guide",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_f6c871cd6fe1",
+      "chunk_index": 0,
+      "total_chunks": 5
+    }
+  },
+  {
+    "chunk_id": "chunk_0c46d9e4e07d",
+    "content": "### Leukocytosis (WBC > 11,000/\u03bcL)\n\nCommon causes:\n- Bacterial infection (most common)\n- Inflammatory conditions\n- Stress response (physical or emotional)\n- Medications (corticosteroids)\n- Leukemia and myeloproliferative disorders\n- Tissue necrosis\n- Smoking\n\n### Leukopenia (WBC < 4,500/\u03bcL)\n\nCommon causes:\n- Viral infections\n- Bone marrow suppression\n- Autoimmune conditions\n- Medications (chemotherapy, certain antibiotics)\n- Severe sepsis (late stage)\n- Nutritional deficiencies\n\n## Hemoglobin / Hematocrit",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\cbc_interpretation.md",
+      "title": "Complete Blood Count (CBC) \u2014 Interpretation Guide",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_0c46d9e4e07d",
+      "chunk_index": 1,
+      "total_chunks": 5
+    }
+  },
+  {
+    "chunk_id": "chunk_f8ace7e6f3b7",
+    "content": "## Hemoglobin / Hematocrit\n\nNormal hemoglobin: Men 13.5\u201317.5 g/dL, Women 12.0\u201316.0 g/dL\n\n### Anemia (Low Hemoglobin)\n\nClassification by MCV:\n- Microcytic (MCV < 80 fL): Iron deficiency, thalassemia, chronic disease\n- Normocytic (MCV 80\u2013100 fL): Acute blood loss, chronic kidney disease, anemia of chronic disease\n- Macrocytic (MCV > 100 fL): B12 deficiency, folate deficiency, liver disease, hypothyroidism\n\n### Polycythemia (High Hemoglobin)",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\cbc_interpretation.md",
+      "title": "Complete Blood Count (CBC) \u2014 Interpretation Guide",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_f8ace7e6f3b7",
+      "chunk_index": 2,
+      "total_chunks": 5
+    }
+  },
+  {
+    "chunk_id": "chunk_6b5e729c96a8",
+    "content": "### Polycythemia (High Hemoglobin)\n\nCauses:\n- Polycythemia vera\n- Chronic hypoxia (COPD, high altitude)\n- Dehydration (relative polycythemia)\n\n## Platelet Count\n\nNormal range: 150,000\u2013400,000/\u03bcL\n\n### Thrombocytopenia (Platelets < 150,000/\u03bcL)\n\nCommon causes:\n- Immune thrombocytopenic purpura (ITP)\n- Disseminated intravascular coagulation (DIC)\n- Liver disease (hypersplenism)\n- Medication-induced (heparin \u2014 HIT)\n- Bone marrow disorders\n- Severe infections\n\n### Thrombocytosis (Platelets > 400,000/\u03bcL)",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\cbc_interpretation.md",
+      "title": "Complete Blood Count (CBC) \u2014 Interpretation Guide",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_6b5e729c96a8",
+      "chunk_index": 3,
+      "total_chunks": 5
+    }
+  },
+  {
+    "chunk_id": "chunk_49d48eee4179",
+    "content": "### Thrombocytosis (Platelets > 400,000/\u03bcL)\n\nCommon causes:\n- Reactive (infection, inflammation, iron deficiency)\n- Essential thrombocythemia\n- Post-splenectomy\n\n## Clinical Significance\n\nThe CBC should always be interpreted in the clinical context. Isolated laboratory values may be misleading without considering:\n- Patient symptoms and history\n- Medications\n- Acute vs. chronic changes\n- Trends over time\n- Other laboratory results",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\cbc_interpretation.md",
+      "title": "Complete Blood Count (CBC) \u2014 Interpretation Guide",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_49d48eee4179",
+      "chunk_index": 4,
+      "total_chunks": 5
+    }
+  },
+  {
+    "chunk_id": "chunk_1ab0b388fd5b",
+    "content": "# Chest X-Ray Interpretation \u2014 Educational Guide\n\nTitle: Chest X-Ray Interpretation Guide\nDocument Type: educational\n\n## Systematic Approach\n\nA systematic approach to chest X-ray (CXR) interpretation ensures no pathology is missed. Use the ABCDE approach:\n\n### A \u2014 Airway\n- Trachea: Midline or deviated?\n- Tracheal deviation suggests tension pneumothorax, large pleural effusion, or mediastinal mass\n- Carina: Normal bifurcation angle",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\chest_xray_interpretation.md",
+      "title": "Chest X-Ray Interpretation \u2014 Educational Guide",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_1ab0b388fd5b",
+      "chunk_index": 0,
+      "total_chunks": 7
+    }
+  },
+  {
+    "chunk_id": "chunk_04d14956b303",
+    "content": "### B \u2014 Bones\n- Rib fractures\n- Lytic or blastic lesions\n- Cervical spine alignment\n- Shoulder joints\n\n### C \u2014 Cardiac\n- Heart size: Cardiothoracic ratio (CTR) < 0.5 on PA film is normal\n- Cardiomegaly: CTR > 0.5\n- Heart borders: Right (right atrium), Left (left ventricle)\n- Aortic knob\n- Pericardial effusion (water bottle sign)",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\chest_xray_interpretation.md",
+      "title": "Chest X-Ray Interpretation \u2014 Educational Guide",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_04d14956b303",
+      "chunk_index": 1,
+      "total_chunks": 7
+    }
+  },
+  {
+    "chunk_id": "chunk_b656bbe334b4",
+    "content": "### D \u2014 Diaphragm\n- Right hemidiaphragm normally higher than left\n- Flattened diaphragm: Hyperinflation (COPD, asthma)\n- Elevated hemidiaphragm: Phrenic nerve palsy, hepatomegaly, subphrenic abscess\n- Free air under diaphragm: Pneumoperitoneum (perforation)\n\n### E \u2014 Everything else (Lung fields, soft tissue, lines/tubes)\n\n## Common Lung Pathologies on CXR",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\chest_xray_interpretation.md",
+      "title": "Chest X-Ray Interpretation \u2014 Educational Guide",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_b656bbe334b4",
+      "chunk_index": 2,
+      "total_chunks": 7
+    }
+  },
+  {
+    "chunk_id": "chunk_9490b2cebc16",
+    "content": "## Common Lung Pathologies on CXR\n\n### Consolidation\n- Opacification of lung parenchyma with air bronchograms\n- Causes: Pneumonia (most common), pulmonary hemorrhage, organizing pneumonia\n- Lobar pattern: Typical bacterial pneumonia\n- Patchy/bilateral: Atypical pneumonia, aspiration",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\chest_xray_interpretation.md",
+      "title": "Chest X-Ray Interpretation \u2014 Educational Guide",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_9490b2cebc16",
+      "chunk_index": 3,
+      "total_chunks": 7
+    }
+  },
+  {
+    "chunk_id": "chunk_7e473686fc93",
+    "content": "### Pleural Effusion\n- Blunting of costophrenic angle (> 200 mL needed on PA film)\n- Meniscus sign\n- Massive: Opacification of hemithorax with mediastinal shift away\n- Causes: Heart failure, infection (parapneumonic/empyema), malignancy, PE\n\n### Pneumothorax\n- Visible visceral pleural line\n- Absence of lung markings beyond the pleural line\n- Tension pneumothorax: Mediastinal shift away, flattened diaphragm",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\chest_xray_interpretation.md",
+      "title": "Chest X-Ray Interpretation \u2014 Educational Guide",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_7e473686fc93",
+      "chunk_index": 4,
+      "total_chunks": 7
+    }
+  },
+  {
+    "chunk_id": "chunk_d9db3b35e774",
+    "content": "### Interstitial Patterns\n- Reticular: Pulmonary fibrosis, interstitial lung disease\n- Nodular: Miliary TB, metastases, sarcoidosis\n- Ground glass: Viral pneumonia, PCP, early ARDS\n\n### Mass Lesions\n- Solitary pulmonary nodule: < 3 cm\n- Lung mass: > 3 cm (higher malignancy concern)\n- Evaluate: Shape, margins, calcification, cavitation",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\chest_xray_interpretation.md",
+      "title": "Chest X-Ray Interpretation \u2014 Educational Guide",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_d9db3b35e774",
+      "chunk_index": 5,
+      "total_chunks": 7
+    }
+  },
+  {
+    "chunk_id": "chunk_df18a56586af",
+    "content": "### Pulmonary Edema\n- Cardiogenic: Bilateral, perihilar \"bat wing\" distribution, cephalization of vessels, Kerley B lines, pleural effusions\n- Non-cardiogenic (ARDS): Bilateral, peripheral, without cephalization\n\n## Limitations\n- CXR has limited sensitivity for small nodules, early interstitial disease, and PE\n- CT is superior for detailed evaluation\n- Clinical correlation is always essential",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\chest_xray_interpretation.md",
+      "title": "Chest X-Ray Interpretation \u2014 Educational Guide",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_df18a56586af",
+      "chunk_index": 6,
+      "total_chunks": 7
+    }
+  },
+  {
+    "chunk_id": "chunk_45c1010cdb82",
+    "content": "# Glucose Metabolism and Diabetes \u2014 Clinical Overview\n\nTitle: Glucose Metabolism and Diabetes Overview\nDocument Type: educational\n\n## Blood Glucose\n\n### Fasting Blood Glucose\n- Normal: < 100 mg/dL (5.6 mmol/L)\n- Pre-diabetes: 100\u2013125 mg/dL (5.6\u20136.9 mmol/L)\n- Diabetes: \u2265 126 mg/dL (7.0 mmol/L)\n\n### Random Blood Glucose\n- Diabetes: \u2265 200 mg/dL (11.1 mmol/L) with symptoms\n\n### HbA1c\n- Normal: < 5.7%\n- Pre-diabetes: 5.7\u20136.4%\n- Diabetes: \u2265 6.5%\n\n## Hyperglycemia",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\diabetes_glucose.md",
+      "title": "Glucose Metabolism and Diabetes \u2014 Clinical Overview",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_45c1010cdb82",
+      "chunk_index": 0,
+      "total_chunks": 5
+    }
+  },
+  {
+    "chunk_id": "chunk_601e66631831",
+    "content": "## Hyperglycemia\n\n### Causes\n- Diabetes mellitus (type 1 or type 2)\n- Stress hyperglycemia (acute illness, surgery, trauma)\n- Medications (corticosteroids, thiazide diuretics)\n- Cushing syndrome\n- Acromegaly\n- Pancreatitis\n- Parenteral nutrition\n\n### Clinical Significance\nStress hyperglycemia in hospitalized patients is common and associated with worse outcomes, even without a prior diagnosis of diabetes. It may occur during:\n- Acute infections (pneumonia, sepsis)\n- Myocardial infarction\n- Stroke\n- Trauma",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\diabetes_glucose.md",
+      "title": "Glucose Metabolism and Diabetes \u2014 Clinical Overview",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_601e66631831",
+      "chunk_index": 1,
+      "total_chunks": 5
+    }
+  },
+  {
+    "chunk_id": "chunk_589d8fba02ca",
+    "content": "## Hypoglycemia\n\n### Definition\nBlood glucose < 70 mg/dL (3.9 mmol/L)\n\n### Causes\n- Insulin or sulfonylurea use\n- Missed meals\n- Excessive alcohol\n- Adrenal insufficiency\n- Hepatic failure\n- Insulinoma\n- Sepsis\n\n### Symptoms\n- Autonomic: Sweating, tremor, palpitations, hunger\n- Neuroglycopenic: Confusion, drowsiness, seizures, coma\n\n## Diabetic Emergencies",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\diabetes_glucose.md",
+      "title": "Glucose Metabolism and Diabetes \u2014 Clinical Overview",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_589d8fba02ca",
+      "chunk_index": 2,
+      "total_chunks": 5
+    }
+  },
+  {
+    "chunk_id": "chunk_28d833783d52",
+    "content": "## Diabetic Emergencies\n\n### Diabetic Ketoacidosis (DKA)\n- More common in type 1 diabetes\n- Characterized by hyperglycemia, ketosis, metabolic acidosis\n- Presents with nausea, vomiting, abdominal pain, Kussmaul breathing\n- Lab findings: Glucose > 250, pH < 7.3, bicarbonate < 18, positive ketones\n\n### Hyperosmolar Hyperglycemic State (HHS)\n- More common in type 2 diabetes\n- Severe hyperglycemia (> 600 mg/dL) without significant ketosis\n- Profound dehydration\n- Altered mental status",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\diabetes_glucose.md",
+      "title": "Glucose Metabolism and Diabetes \u2014 Clinical Overview",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_28d833783d52",
+      "chunk_index": 3,
+      "total_chunks": 5
+    }
+  },
+  {
+    "chunk_id": "chunk_7738d7d820df",
+    "content": "## Complications of Chronic Hyperglycemia\n- Retinopathy\n- Nephropathy\n- Neuropathy (peripheral and autonomic)\n- Cardiovascular disease\n- Peripheral arterial disease\n- Increased infection risk",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\diabetes_glucose.md",
+      "title": "Glucose Metabolism and Diabetes \u2014 Clinical Overview",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_7738d7d820df",
+      "chunk_index": 4,
+      "total_chunks": 5
+    }
+  },
+  {
+    "chunk_id": "chunk_09362cf007c7",
+    "content": "# Inflammatory Markers \u2014 Clinical Interpretation\n\nTitle: Inflammatory Markers Guide\nDocument Type: educational\n\n## C-Reactive Protein (CRP)\n\n### Overview\nCRP is an acute-phase reactant produced by the liver in response to inflammation. It is a non-specific marker that rises rapidly (within 6-8 hours) in response to infection, tissue injury, or inflammation.\n\n### Normal Values\n- Normal: < 10 mg/L\n- Mild elevation: 10\u201340 mg/L\n- Moderate elevation: 40\u2013100 mg/L\n- Severe elevation: > 100 mg/L",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\inflammatory_markers.md",
+      "title": "Inflammatory Markers \u2014 Clinical Interpretation",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_09362cf007c7",
+      "chunk_index": 0,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_8ec67a7ddd91",
+    "content": "### Clinical Interpretation\n\nElevated CRP may indicate:\n- Bacterial infection (often > 50 mg/L, sometimes > 200 mg/L)\n- Viral infection (usually mild elevation, < 50 mg/L)\n- Autoimmune diseases (rheumatoid arthritis, lupus)\n- Tissue necrosis or injury\n- Malignancy\n- Post-surgical inflammation\n\nCRP is useful for:\n- Distinguishing bacterial from viral infection (higher in bacterial)\n- Monitoring treatment response (decreases with effective therapy)\n- Assessing disease severity in infections",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\inflammatory_markers.md",
+      "title": "Inflammatory Markers \u2014 Clinical Interpretation",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_8ec67a7ddd91",
+      "chunk_index": 1,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_90aae7c6167e",
+    "content": "### Limitations\n- Non-specific (elevated in many conditions)\n- Can be normal in early infection\n- Affected by liver disease\n- Not useful alone for diagnosis\n\n## Procalcitonin\n\n### Overview\nProcalcitonin is a more specific marker for bacterial infection compared to CRP. It rises within 2-4 hours of bacterial infection and peaks at 24 hours.",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\inflammatory_markers.md",
+      "title": "Inflammatory Markers \u2014 Clinical Interpretation",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_90aae7c6167e",
+      "chunk_index": 2,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_427b7522bacc",
+    "content": "### Normal Values\n- Normal: < 0.1 ng/mL\n- Low risk of bacterial infection: < 0.25 ng/mL\n- Possible bacterial infection: 0.25\u20130.5 ng/mL\n- Likely bacterial infection: > 0.5 ng/mL\n- Severe bacterial infection/sepsis: > 2 ng/mL\n\n### Clinical Use\n- Helps differentiate bacterial from viral respiratory infections\n- Guides antibiotic initiation and duration\n- Prognostic marker in sepsis\n\n## Erythrocyte Sedimentation Rate (ESR)",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\inflammatory_markers.md",
+      "title": "Inflammatory Markers \u2014 Clinical Interpretation",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_427b7522bacc",
+      "chunk_index": 3,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_a4fbb0b8e4ca",
+    "content": "## Erythrocyte Sedimentation Rate (ESR)\n\n### Overview\nESR measures the rate at which red blood cells settle in a tube. It is an older, less specific inflammatory marker that changes more slowly than CRP.\n\n### Normal Values\n- Men: 0\u201315 mm/hr (age < 50), 0\u201320 mm/hr (age > 50)\n- Women: 0\u201320 mm/hr (age < 50), 0\u201330 mm/hr (age > 50)",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\inflammatory_markers.md",
+      "title": "Inflammatory Markers \u2014 Clinical Interpretation",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_a4fbb0b8e4ca",
+      "chunk_index": 4,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_eb6b0cea3205",
+    "content": "### Elevated ESR\nCauses include:\n- Infection\n- Autoimmune diseases (especially temporal arteritis, polymyalgia rheumatica)\n- Malignancy (especially multiple myeloma)\n- Anemia\n- Pregnancy\n- Advanced age",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\inflammatory_markers.md",
+      "title": "Inflammatory Markers \u2014 Clinical Interpretation",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_eb6b0cea3205",
+      "chunk_index": 5,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_f01fe077ab09",
+    "content": "# Community-Acquired Pneumonia (CAP) \u2014 Clinical Overview\n\nTitle: Community-Acquired Pneumonia Clinical Guide\nDocument Type: clinical_guideline\n\n## Definition\n\nCommunity-acquired pneumonia (CAP) is an acute infection of the pulmonary parenchyma acquired outside the hospital setting. It remains one of the most common infectious diseases and a significant cause of morbidity and mortality worldwide.\n\n## Etiology",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\pneumonia_overview.md",
+      "title": "Community-Acquired Pneumonia (CAP) \u2014 Clinical Overview",
+      "document_type": "clinical_guideline",
+      "section": "",
+      "chunk_id": "chunk_f01fe077ab09",
+      "chunk_index": 0,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_79173782b2d7",
+    "content": "## Etiology\n\nThe most common pathogens include:\n- Streptococcus pneumoniae (most frequent bacterial cause)\n- Haemophilus influenzae\n- Mycoplasma pneumoniae (common in younger adults)\n- Chlamydophila pneumoniae\n- Respiratory viruses (influenza, SARS-CoV-2, RSV)\n- Legionella pneumophila (consider in severe cases)\n\n## Clinical Presentation\n\nTypical symptoms include:\n- Cough (productive or non-productive)\n- Fever or hypothermia\n- Dyspnea (shortness of breath)\n- Pleuritic chest pain\n- Fatigue and malaise",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\pneumonia_overview.md",
+      "title": "Community-Acquired Pneumonia (CAP) \u2014 Clinical Overview",
+      "document_type": "clinical_guideline",
+      "section": "",
+      "chunk_id": "chunk_79173782b2d7",
+      "chunk_index": 1,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_dca2e5baad7f",
+    "content": "Physical examination findings may include:\n- Tachypnea (respiratory rate > 20/min)\n- Tachycardia\n- Decreased breath sounds\n- Crackles or rales on auscultation\n- Dullness to percussion over affected area\n- Bronchial breathing\n\n## Laboratory Findings",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\pneumonia_overview.md",
+      "title": "Community-Acquired Pneumonia (CAP) \u2014 Clinical Overview",
+      "document_type": "clinical_guideline",
+      "section": "",
+      "chunk_id": "chunk_dca2e5baad7f",
+      "chunk_index": 2,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_910a742f07a2",
+    "content": "## Laboratory Findings\n\nCommon laboratory abnormalities:\n- Elevated white blood cell count (WBC > 11,000/\u03bcL) \u2014 leukocytosis\n- Elevated C-reactive protein (CRP)\n- Elevated procalcitonin (supports bacterial etiology)\n- Possible hypoxemia on arterial blood gas\n- Elevated lactate in severe cases\n\n## Imaging\n\nChest radiograph typically shows:\n- Lobar consolidation (typical pneumonia)\n- Interstitial or patchy infiltrates (atypical pneumonia)\n- Air bronchograms\n- Possible pleural effusion",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\pneumonia_overview.md",
+      "title": "Community-Acquired Pneumonia (CAP) \u2014 Clinical Overview",
+      "document_type": "clinical_guideline",
+      "section": "",
+      "chunk_id": "chunk_910a742f07a2",
+      "chunk_index": 3,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_c6af8276c936",
+    "content": "## Differential Diagnosis\n\nConditions that may present similarly:\n- Acute bronchitis\n- Pulmonary embolism\n- Congestive heart failure\n- Lung malignancy\n- Tuberculosis\n- Hypersensitivity pneumonitis\n\n## Severity Assessment\n\nThe CURB-65 score is commonly used:\n- Confusion\n- Urea > 7 mmol/L\n- Respiratory rate \u2265 30/min\n- Blood pressure < 90/60 mmHg\n- Age \u2265 65 years\n\nEach factor scores 1 point. Score 0-1: outpatient, 2: consider admission, 3-5: consider ICU.\n\n## Complications",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\pneumonia_overview.md",
+      "title": "Community-Acquired Pneumonia (CAP) \u2014 Clinical Overview",
+      "document_type": "clinical_guideline",
+      "section": "",
+      "chunk_id": "chunk_c6af8276c936",
+      "chunk_index": 4,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_0400914644aa",
+    "content": "## Complications\n\n- Parapneumonic effusion\n- Empyema\n- Lung abscess\n- Sepsis\n- Acute respiratory distress syndrome (ARDS)",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\pneumonia_overview.md",
+      "title": "Community-Acquired Pneumonia (CAP) \u2014 Clinical Overview",
+      "document_type": "clinical_guideline",
+      "section": "",
+      "chunk_id": "chunk_0400914644aa",
+      "chunk_index": 5,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_89dcd94660c5",
+    "content": "# Renal Function Assessment \u2014 Clinical Overview\n\nTitle: Renal Function Assessment\nDocument Type: educational\n\n## Creatinine\n\n### Overview\nSerum creatinine is a waste product of muscle metabolism filtered by the kidneys. It is one of the primary markers used to assess kidney function.\n\n### Normal Values\n- Men: 0.7\u20131.3 mg/dL (62\u2013115 \u03bcmol/L)\n- Women: 0.6\u20131.1 mg/dL (53\u201397 \u03bcmol/L)\n\n### Elevated Creatinine",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\renal_function.md",
+      "title": "Renal Function Assessment \u2014 Clinical Overview",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_89dcd94660c5",
+      "chunk_index": 0,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_a74f6d0230a2",
+    "content": "### Elevated Creatinine\n\nCauses of elevated serum creatinine:\n- Acute kidney injury (AKI)\n- Chronic kidney disease (CKD)\n- Dehydration\n- Medications (ACE inhibitors, NSAIDs, aminoglycosides)\n- Obstruction of urinary tract\n- Rhabdomyolysis\n- High protein diet or muscle mass (mild elevation)\n- Heart failure (reduced renal perfusion)\n\n### Decreased Creatinine\n- Low muscle mass\n- Malnutrition\n- Liver disease (decreased creatine production)\n\n## Blood Urea Nitrogen (BUN)\n\n### Normal Values\n- 7\u201320 mg/dL",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\renal_function.md",
+      "title": "Renal Function Assessment \u2014 Clinical Overview",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_a74f6d0230a2",
+      "chunk_index": 1,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_7de4d2ab5bc6",
+    "content": "## Blood Urea Nitrogen (BUN)\n\n### Normal Values\n- 7\u201320 mg/dL\n\n### Elevated BUN\nCauses:\n- Dehydration (prerenal azotemia) \u2014 BUN:Creatinine ratio > 20:1\n- Kidney disease\n- Heart failure\n- GI bleeding\n- High protein diet\n- Catabolic states\n\n## Estimated Glomerular Filtration Rate (eGFR)\n\n### Overview\neGFR is calculated from serum creatinine, age, sex, and race. It is the best overall indicator of kidney function.",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\renal_function.md",
+      "title": "Renal Function Assessment \u2014 Clinical Overview",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_7de4d2ab5bc6",
+      "chunk_index": 2,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_904e57fefe27",
+    "content": "### Staging of CKD by eGFR\n- Stage 1: eGFR \u2265 90 (normal kidney function with other evidence of damage)\n- Stage 2: eGFR 60\u201389 (mildly decreased)\n- Stage 3a: eGFR 45\u201359 (mild to moderate decrease)\n- Stage 3b: eGFR 30\u201344 (moderate to severe decrease)\n- Stage 4: eGFR 15\u201329 (severely decreased)\n- Stage 5: eGFR < 15 (kidney failure)\n\n## Urinalysis",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\renal_function.md",
+      "title": "Renal Function Assessment \u2014 Clinical Overview",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_904e57fefe27",
+      "chunk_index": 3,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_973d216d8cc6",
+    "content": "## Urinalysis\n\nKey findings:\n- Proteinuria: May indicate glomerular disease\n- Hematuria: Infection, stones, malignancy, glomerulonephritis\n- Casts: Red cell casts (glomerulonephritis), white cell casts (pyelonephritis), muddy brown casts (ATN)\n- Specific gravity: Hydration status and concentrating ability\n\n## Clinical Context",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\renal_function.md",
+      "title": "Renal Function Assessment \u2014 Clinical Overview",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_973d216d8cc6",
+      "chunk_index": 4,
+      "total_chunks": 6
+    }
+  },
+  {
+    "chunk_id": "chunk_cb4a4eafb0b5",
+    "content": "## Clinical Context\n\nRenal function assessment should consider:\n- Baseline kidney function\n- Acute vs. chronic changes\n- Medications affecting kidneys\n- Volume status\n- Comorbidities (diabetes, hypertension)\n- Age-related decline in eGFR is common",
+    "metadata": {
+      "source": "D:\\final year project\\diagnostic-copilot\\data\\demo\\renal_function.md",
+      "title": "Renal Function Assessment \u2014 Clinical Overview",
+      "document_type": "educational",
+      "section": "",
+      "chunk_id": "chunk_cb4a4eafb0b5",
+      "chunk_index": 5,
+      "total_chunks": 6
+    }
+  }
+]

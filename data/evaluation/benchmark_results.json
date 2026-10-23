@@ -1,0 +1,39 @@
+{
+  "run_timestamp": "2026-10-19 18:22:23",
+  "total_cases_evaluated": 2,
+  "top_1_accuracy": 50.0,
+  "top_3_accuracy": 50.0,
+  "critical_rule_out_recall": 0.0,
+  "mean_faithfulness_score": 100.0,
+  "mean_latency_seconds": 1.98,
+  "system_version": "0.3.0 (Phase 3 Multi-Agent)",
+  "case_details": [
+    {
+      "case_id": "BM-RESP-01",
+      "category": "Respiratory",
+      "gold_standard_primary": "Community-Acquired Pneumonia",
+      "top_1_differential": "Community-Acquired Pneumonia / Infectious Infiltrate",
+      "top_1_match": true,
+      "top_3_match": true,
+      "rule_outs_identified": [],
+      "rule_out_recall": 0.0,
+      "faithfulness_score": 100.0,
+      "latency_seconds": 1.8,
+      "status": "passed"
+    },
+    {
+      "case_id": "BM-RESP-02",
+      "category": "Respiratory",
+      "gold_standard_primary": "Acute Exacerbation of COPD",
+      "top_1_differential": "Community-Acquired Pneumonia / Infectious Infiltrate",
+      "top_1_match": false,
+      "top_3_match": false,
+      "rule_outs_identified": [],
+      "rule_out_recall": 0.0,
+      "faithfulness_score": 100.0,
+      "latency_seconds": 2.15,
+      "status": "passed"
+    }
+  ],
+  "summary_markdown": "### Benchmark Evaluation Summary (2 Cases Evaluated)\n\n- **Top-1 Diagnostic Accuracy**: **50.0%**\n- **Top-3 Differential Inclusion**: **50.0%**\n- **Critical Rule-Out Recall**: **0.0%**\n- **Mean Evidence Faithfulness**: **100.0%**\n- **Average Case Latency**: **1.98s**\n"
+}
